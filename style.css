@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	background: rgb(95,46,173);
+	background: linear-gradient(45deg, rgba(95,46,173,1) 0%, rgba(99,166,255,1) 100%);
+}
+
+img.logo-wireframe {
+	height: 50%;
+	width: 50%;
+}
