@@ -2,7 +2,19 @@ body {
 	text-align: center;
 	background: rgb(95,46,173);
 	background: linear-gradient(45deg, rgba(95,46,173,1) 0%, rgba(99,166,255,1) 100%);
-}
+
+    animation: fadeInAnimation ease 3s; 
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+} 
+@keyframes fadeInAnimation { 
+	0% { 
+		opacity: 0; 
+	} 
+   	100% { 
+    	opacity: 1; 
+	} 
+} 
 
 img.logo-wireframe {
 	height: 50%;
