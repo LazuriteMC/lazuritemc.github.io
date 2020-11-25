@@ -1,11 +1,16 @@
 {
 	"dropz": {
 		"version": "1.0.0",
-		"description": "BIG improvements."
+		"description": "Initial release."
 	},
 
 	"fpvracing": {
 		"version": "0.1.3",
 		"description": "a"
+	},
+
+	"lazurite-physics": {
+		"version": "1.0.0",
+		"description": "Initial release."
 	}
 }
