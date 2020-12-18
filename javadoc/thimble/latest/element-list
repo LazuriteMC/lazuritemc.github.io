@@ -1,0 +1,15 @@
+dev.lazurite.thimble
+dev.lazurite.thimble.composition
+dev.lazurite.thimble.composition.packet
+dev.lazurite.thimble.example
+dev.lazurite.thimble.example.composition
+dev.lazurite.thimble.example.item
+dev.lazurite.thimble.exception
+dev.lazurite.thimble.mixin
+dev.lazurite.thimble.side.client
+dev.lazurite.thimble.side.server
+dev.lazurite.thimble.synchronizer
+dev.lazurite.thimble.synchronizer.key
+dev.lazurite.thimble.synchronizer.packet
+dev.lazurite.thimble.synchronizer.type
+dev.lazurite.thimble.util
